@@ -4,4 +4,5 @@ Simply compile or download the 64 or 32 bit application and add to your Desktop 
 This program is intended to provide easy access for stopping those pesky notifications.
 
 x86 .exe: https://kylechadworth.com/software/ubisoftconnect_closer32.exe
+
 x64 .exe: https://kylechadworth.com/software/ubisoftconnect_closer64.exe
