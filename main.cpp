@@ -5,7 +5,7 @@ int main()
 {
     HWND hWnd = FindWindowA(NULL, "Ubisoft Connect");
     if (hWnd == NULL) {
-        std::cout << "Ubisoft aint running." << std::endl;
+        std::cout << "Ubisoft Connect aint running." << std::endl;
         return -1;
     }
     DWORD pid;
